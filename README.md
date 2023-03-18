@@ -3,23 +3,23 @@ As a Data Scientist at Standard Bank, I have implemented Machine Learning model 
 
 ### Agenda
 
-Data Science Lifecycle
-Project Overview
-Process Overview
-Data 
-Analysis
-Modeling
-Model Evaluation
-Recommendations
+- Data Science Lifecycle
+- Project Overview
+- Process Overview
+- Data 
+- Analysis
+- Modeling
+- Model Evaluation
+- Recommendations
 
 
 ### Data Science Lifecycle
-Business Understanding
-Data Understanding
-Data Preparation
-Modelling
-Evaluation
-Deployment
+- Business Understanding
+- Data Understanding
+- Data Preparation
+- Modelling
+- Evaluation
+- Deployment
 
 
 ### Project Overview
