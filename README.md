@@ -43,21 +43,22 @@ An applicant can apply on any device by filling his/her information (Gender, Mar
 
 ![Image](https://user-images.githubusercontent.com/25155794/226133344-f54f65ea-d2df-4978-9170-63b73a6e3f25.png)
 
+![image](https://user-images.githubusercontent.com/25155794/226143990-0171e519-a16e-49c8-bac7-856c67574ea1.png)
+
 
 ### Modeling
-One machine learning model trained and AutoML used as well. 
--Bespoke model required preprocessing 
--AutoML did not 
--Results fairly similar 
+Five classification machine learning model trained for binary classification
+- model required preprocessing 
+- Gradient Boosting Classifier  and Logistic Classifier fairly similar results
 
 ### Evaluation
-
-
-![Image](https://user-images.githubusercontent.com/25155794/226133513-eee2e670-8041-4dc1-9c05-d19fe8340f2b.png)
-
+![image](https://user-images.githubusercontent.com/25155794/226144022-0511677f-9612-4b79-acdd-bec329de997e.png)
 
 ### Recommendations
-- Bespoke ML > AutoML 
-- We understand/know exactly what went in, how it went in and what algorithm was used to achieve the objective 
-- Less time training (works in our favour if we train and predict in real time – maybe not applicable in this use case)
-- AutoML is best used as
+- We understand exactly what went in, how it went in and what algorithm was used to achieve the objective 
+- Less time taken as compared to manual process
+-  Gradient Boosting Classifier can perform better results with adding the greater number of records in the train data.
+- Logistic Classifier is good for baseline model. However, It can be overfit the preformation in production. 
+
+### Future Improvement
+Adding a greater number of records in dataset, we can train better and more accurate machine-learning model.
